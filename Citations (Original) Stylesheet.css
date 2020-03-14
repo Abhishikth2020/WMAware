@@ -1,0 +1,33 @@
+#background {
+background-image: url('https://img.artpal.com/10123/49-18-8-9-7-29-19m.jpg'); 
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed; 
+}
+
+h1 {
+background-repeat: no-repeat;
+background-size: 1400px 500px;
+background-attachment: fixed;
+padding: 10px;
+text-align: center;
+background-color: black;
+color: white;
+}
+
+#frankruhllibre {
+font-size: 40px;
+font-family: 'Frank Ruhl Libre', serif;
+}
+
+#roboto {
+font-size: 21px;
+font-family: 'Roboto Condensed', sans-serif;
+color: #d1d1d1;
+}
+
+#arrowimage {
+float: right;
+width: 46px; 
+height: 45px;
+}

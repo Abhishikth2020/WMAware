@@ -1,0 +1,37 @@
+#background {
+background-repeat: no-repeat;
+background-attachment: fixed; 
+background-size: cover;
+background-image: url('https://blog.orangecarton.com/wp-content/uploads/2013/06/nature_painting.jpg');
+}
+
+#arrowimage {
+float: right;
+width: 46px; 
+height: 45px;
+}
+
+#frankruhllibre {
+font-size: 40px;
+font-family: 'Frank Ruhl Libre', serif;
+}
+
+h1 {
+background-repeat: no-repeat;
+background-size: 1400px 500px;
+background-attachment: fixed;
+padding: 10px;
+text-align: center;
+background-color: black;
+color: white;
+}
+
+#roboto {
+font-size: 21px;
+font-family: 'Roboto Condensed', sans-serif;
+color: #ff3c00;
+background-color: black;
+background-position: 500px 300px;
+background-size: 1400px 500px;
+background-attachment: fixed;
+}

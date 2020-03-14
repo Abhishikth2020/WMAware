@@ -1,0 +1,65 @@
+#background {
+background-image: url('https://art.ngfiles.com/images/439000/439242_asx1313_earth-an-oil-painting.png?f1468800342');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+#arrowimage {
+float: right;
+width: 46px; 
+height: 45px;
+}
+
+#image2 {
+width: 200px;
+height: 200px;
+margin-left: 400px;
+}
+
+#nav {
+margin: 0;
+padding: 0;
+list-style-type: none;
+width: 200px;
+background-color: #dddddd;
+height: 2220px;
+float: left;
+overflow: visible;
+}
+
+li a {
+display: block;
+color: #000;
+padding: 8px 16px;
+text-decoration: none;
+text-align: center;
+font-family: verdana;
+}
+
+li a.active {
+  background-color: #555;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: #f26602;
+}
+
+h1 {
+padding: 10px;
+color: white;
+}
+
+#frankruhllibre {
+font-size: 40px;
+font-family: 'Frank Ruhl Libre', serif;
+text-align: center;
+}
+
+#roboto {
+font-size: 21px;
+font-family: 'Roboto Condensed', sans-serif;
+color: white;
+}

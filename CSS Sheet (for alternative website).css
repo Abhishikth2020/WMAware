@@ -1,0 +1,57 @@
+body {
+background-repeat: no-repeat;
+background-attachment: fixed; 
+background-size: cover;
+background-image: url('anime-mountains-landscape-hd-wallpaper-preview.jpg');
+}
+
+h1 {
+background-repeat: no-repeat;
+background-size: 1400px 500px;
+background-attachment: fixed;
+padding: 10px;
+text-align: center;
+background-color: black;
+color: white;
+
+}
+
+#frankruhllibre {
+font-size: 40px;
+font-family: 'Frank Ruhl Libre', serif;
+}
+
+#lobster {
+font-size: 19px;
+font-family: 'Lobster Two', cursive;
+text-align: center;
+color: #ff3c00;
+}
+
+#pacifico {
+font-size: 17px;
+font-family: 'Pacifico', cursive;
+color: black;
+text-align: center;
+border-style: groove;
+border-size: 20px;
+border-color: black;
+}
+
+#roboto {
+font-size: 21px;
+font-family: 'Roboto Condensed', sans-serif;
+color: #ff3c00;
+margin-right: 700px;
+background-color: black;
+opacity: 0.6;
+background-size: 400px 400px;
+}
+
+.backgroundimage2 {
+background-image: url('paint-with-confidence-final.jpg');
+background-repeat: no-repeat;
+background-position:  
+               830px 50%;
+background-attachment: fixed
+}
